@@ -14,7 +14,7 @@
 </p>
 
 <p class="mt-3">
-    And if you'd like to get in touch with us for any reason, please don't hesitate to reach out on our <a href="/baby" class="btn btn-sm variant-filled" title="Baby"> Contact Page </a>. We always love to hear from friends and family.
+    And if you'd like to get in touch with us for any reason, please don't hesitate to reach out on our <a href="/contact" class="btn btn-sm variant-filled" title="Baby"> Contact Page </a>. We always love to hear from friends and family.
 </p>
    
 <p class="mt-3">

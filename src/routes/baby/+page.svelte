@@ -102,7 +102,7 @@ Warmest regards,
 <br class="mt-3">
 
 <h3 class="h3">
-    LINKS
+    Links
 </h3>
 
 <ul class="ms-3">
